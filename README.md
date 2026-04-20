@@ -191,11 +191,11 @@ HealthNexus/
 
 **Aditya Choudhary**
 
-- GitHub: [@aditya-choudhary599](https://github.com/aditya-choudhary599))
+- GitHub: [@aditya-choudhary599](https://github.com/aditya-choudhary599)
 
 **Vipul Chaudhari**
 
-- GitHub: [@VipulChaudhari31](https://github.com/VipulChaudhari31))
+- GitHub: [@VipulChaudhari31](https://github.com/VipulChaudhari31)
 
 ---
 
